@@ -4,8 +4,9 @@
 
 #syntax: {key: value, key1: value1}
 
-#Here's the example
+d={} #this creates an empty dictionaries
 
+#Here's the example
 marks = {
     "John": 90,
     "Emma": 85,
