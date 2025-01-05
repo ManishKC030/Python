@@ -19,3 +19,9 @@ elif a == b:
 else:
   print("a is greater than b") 
   
+
+#conditional expression or ternary operator or short hand if..else
+
+x=20
+y=30
+print("x is greater than y") if x>y else print("x is smaller than y")
