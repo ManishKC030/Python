@@ -46,8 +46,6 @@ while i <= 5:
 else:
     print("While loop completed")
     
-    
-    
-    #print commmit
+
 
 
