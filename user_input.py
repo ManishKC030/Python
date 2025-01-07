@@ -6,3 +6,4 @@ a = input("Enter your message:")
 
 b= int(input("enter your number:"))
 print(b)
+
