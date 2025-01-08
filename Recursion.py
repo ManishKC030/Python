@@ -19,3 +19,15 @@ def recursive_sum(n):
 #calling the function
 print(recursive_sum(5))  # Output:15 (5+4+3+2+1)
 
+
+
+#Another example for factorial
+
+def factorial(n):
+    if n == 0:   #Base Case
+        return 1 
+    else:
+        return n * factorial(n-1)  #Recursive Case
+    
+#call function
+print(factorial(5))  # Output:120 (5*4*3*2*1)
