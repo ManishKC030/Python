@@ -1,0 +1,3 @@
+Hello! this is a demofile.txt
+We are learning file handling in python.
+Let Get It!!
