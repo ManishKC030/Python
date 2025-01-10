@@ -6,14 +6,14 @@
 
 # Opening the file in Read mode:
 
-file = open("D:\\Python\\File Handling\\demofile.txt", 'r')
+file = open("demofile.txt", 'r')
 print (file.read())
 file.close() # Closing the file.
 
-#this doesn't need to specify path as it is in working directory
-test = open('test.txt', 'r')
+#YOu can also specify absolute location
+test = open('D:\\Python\\File Handling\\test.txt', 'r')
 #this reads only 4 first characters
-print(test.read(4)) 
+print(test.read(5)) 
 test.close()
 
 
