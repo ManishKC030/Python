@@ -5,7 +5,7 @@ b=10;
 if a<b:
   print("a is smaller than b") #this will bw printed cause condition is true
 
-#in python you have to make sure of indentation otherwise it thows you an error.
+# In Python you have to make sure of indentation otherwise it throws you an error.
 
 
 #elif is just like "if else/ else if "
