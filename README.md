@@ -1,3 +1,2 @@
 Getting Started With Python🐍....
 
-You can learn from Handbook📖 metioned above.
