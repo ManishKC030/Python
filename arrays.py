@@ -4,7 +4,7 @@
 
 ###using Lists as Arrays
 
-#you can use lists as an array, but list can store any data type
+#you can use lists as an array, as list can store any data type
 # to use Lists as array you should only use same datatypes
 
 cars = ["BMW", "Honda", "Nissan", "Toyota"]
