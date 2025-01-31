@@ -6,4 +6,3 @@ print("Hello World") # This is the basic syntax to print in Python
 
 
 
-
