@@ -14,4 +14,3 @@ if(number := int(input("Enter a number"))) == 0:
 else:
     print("Number is Not a zero")    
 
-as
