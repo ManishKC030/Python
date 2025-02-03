@@ -5,5 +5,6 @@
 a = input("Enter your message:")
 
 b= int(input("enter your number:"))
+#without int, it returns string
 print(b)
 
