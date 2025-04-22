@@ -14,5 +14,3 @@ z = float(3) # z will be 3.0 (gives decimal value too)
 a = 5
 #this a is different from A.
 A = 10
-
-streak
